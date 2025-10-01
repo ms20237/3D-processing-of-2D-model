@@ -1,1 +1,1 @@
-# 3D-processing-of-2D-model
+# Activity_Recognization_CPP
