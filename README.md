@@ -1,5 +1,8 @@
 # Activity_Recognization_CPP
-<img src="act_recog.png" alt="Project Picture" width="600"/>
+<p align="center">
+  <img src="act_recog.png" alt="Project Picture" width="600"/>
+</p>
+
 
 ## Introduction
 We present a project focused on recognizing rat activity in a Conditioned Place Preference (CPP) experiment using state-of-the-art machine learning and deep learning techniques.
