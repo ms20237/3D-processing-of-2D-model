@@ -1,6 +1,6 @@
 # Activity_Recognization_CPP
 <p align="center">
-  <img src="act_recog.png" alt="Project Picture" width="600"/>
+  <img src="act_recogn.png" alt="Project Picture" width="500"/>
 </p>
 
 
