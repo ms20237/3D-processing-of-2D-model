@@ -1,5 +1,4 @@
 # Activity_Recognization_CPP
-![Uploading Gemini_Generated_Image_99pe4999pe4999pe.png…]()
 
 ## Introduction
 We present a project focused on recognizing rat activity in a Conditioned Place Preference (CPP) experiment using state-of-the-art machine learning and deep learning techniques.
