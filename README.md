@@ -9,7 +9,6 @@ We present a project focused on recognizing rat activity in a Conditioned Place 
 This repository provides a complete pipeline, including dataset preparation, model training, evaluation, and deployment, to accurately classify and analyze behavioral patterns in experimental settings.
 
 ## :ledger: Index
-- [Introduction](#introduction)
 - [Dataset](#beginner-dataset)
 - [Models](#beginner-models)
 - [Repository Structure](#file_folder-repository-structure)
